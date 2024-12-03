@@ -1,0 +1,43 @@
+-----------------Technical Proficiency--------------------
+
+Can you explain the difference between Layer 1 and Layer 2 blockchain solutions? Which would you choose for scaling and why?
+
+Describe your experience with smart contract development. Have you worked with Solidity or other similar languages?
+
+How do you approach securing blockchain systems against vulnerabilities like reentrancy attacks or private key leaks?
+
+What tools or frameworks do you typically use for blockchain development and testing (e.g., Hardhat, Truffle)?
+
+Have you implemented token standards like ERC-20 or ERC-721? If so, can you walk us through a specific implementation?
+
+------------------Problem-Solving and Design-----------------
+
+How would you design a decentralized application (dApp) to handle high transaction volumes efficiently?
+
+Can you provide an example of a blockchain project you’ve worked on? What challenges did you face, and how did you overcome them?
+
+Explain how you’d integrate blockchain features, such as secure wallets or DeFi, into an existing web or mobile app.
+
+------------------Adaptability and Industry Awareness--------------------
+
+With blockchain technology rapidly evolving, how do you stay up-to-date with the latest trends and best practices?
+
+What’s your perspective on the future of blockchain in industries outside of cryptocurrency, such as healthcare or supply chain management?
+
+--------------------------Team Collaboration-------------------------
+
+Have you worked in a team setting on blockchain projects? 
+How do you manage collaboration, especially when integrating blockchain with other development aspects like frontend or backend?
+
+How do you approach explaining complex blockchain concepts to non-technical stakeholders or clients?
+
+----------------------------Specific to Your Context--------------------
+
+Given the rise in blockchain requests from our clients, how would you prioritize multiple ongoing blockchain projects while ensuring quality and timely delivery?
+
+If tasked with introducing blockchain technology to a team with limited experience in this area, how would you structure the onboarding or training process?
+
+----------------------------
+What is your salary expectation?
+
+Is there any question?
